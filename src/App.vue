@@ -22,5 +22,17 @@ export default {
 </script>
 
 <style lang="scss">
+@import'./assets/scss/style.scss';
+@font-face {
+  font-family: "Gilroy";
+  src: local("Gilroy-regular"),
+  url(./fonts/Gilroy-Regular.ttf) format("truetype");
+  src: local('Gilroy-medium'),
+  url(./fonts/Gilroy-Medium.ttf) format("truetype");
+  src: local('Gilroy-bold'),
+  url(./fonts/Gilroy-Bold.ttf) format("truetype");
+  src: local('Gilroy-light'),
+  url(./fonts/Gilroy-Light.ttf) format("truetype");
 
+}
 </style>
