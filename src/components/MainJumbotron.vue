@@ -23,7 +23,7 @@ name: 'MainJumbotron'
 <style lang="scss">
 @import '../assets/scss/style.scss';
 #jumbotron{
-  background-color: #ecf2f9;
+  background-color: #eceeef;
   
   .container{
   display: flex;
